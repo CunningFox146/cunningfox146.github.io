@@ -1,5 +1,5 @@
 {
-	"id":4,
+	"id":5,
 	
 	"KU_YhiKhjfu":{
 		"all":100
@@ -21,6 +21,7 @@
 	},
 	"KU_7veFLEY6":{
 		"all":2
+		"score":1
 	},
 	"KU_gPD_TqxE":{
 		"all":2
@@ -38,6 +39,8 @@
 		"all":1
 	},
 	"KU__OVS1189":{
-		"all":1
+		"revive":1,
+		"health":1,
+		"sanity":1
 	}
 }
